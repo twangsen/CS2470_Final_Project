@@ -14,7 +14,10 @@
 
 [Previous Deep Learning Day](https://brown-deep-learning-day-f2021.devpost.com/project-gallery)
 
+## Related Work
+[Development of a Recommender System for Dental Care Using Machine Learning](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1016&context=extension_research)
 
+[Exploring the Intersection between Social Determinants of Health and Unmet Dental Care Needs Using Deep Learning](https://mdpi-res.com/d_attachment/ijerph/ijerph-17-07286/article_deploy/ijerph-17-07286.pdf)
 
 
 
